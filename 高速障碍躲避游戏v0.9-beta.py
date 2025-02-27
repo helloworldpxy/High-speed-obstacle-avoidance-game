@@ -3,6 +3,7 @@
 Written by HelloWorld05
 2025/02/04
 '''
+
 import pygame
 import random
 import math
